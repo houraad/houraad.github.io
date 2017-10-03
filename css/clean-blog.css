@@ -99,12 +99,12 @@ body {
       background: transparent; }
       #mainNav .navbar-brand {
         padding: 15px 20px;
-        color: white; }
+        color: black; }
         #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
           color: rgba(255, 255, 255, 0.8); }
       #mainNav .navbar-nav > li.nav-item > a {
         padding: 15px 20px;
-        color: white; }
+        color: black; }
         #mainNav .navbar-nav > li.nav-item > a:focus, #mainNav .navbar-nav > li.nav-item > a:hover {
           color: rgba(255, 255, 255, 0.8); } }
   @media only screen and (min-width: 1170px) {
@@ -145,7 +145,7 @@ body {
         transform: translate3d(0, 100%, 0); } }
 
 header.masthead {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   background: no-repeat center center;
   background-color: #777777;
   background-attachment: scroll;
@@ -162,7 +162,7 @@ header.masthead {
       header.masthead .page-heading,
       header.masthead .post-heading,
       header.masthead .site-heading {
-        padding: 200px 0; } }
+        padding: 300px 0; } }
   header.masthead .page-heading,
   header.masthead .site-heading {
     text-align: center; }
